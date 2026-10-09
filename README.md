@@ -5,7 +5,7 @@
 
 ### 👋 Hi, I'm Minseon Baek | -
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=05030522&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdd025055-max&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
