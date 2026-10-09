@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=pink&height=200&section=header&text=MinSeon%20Baek&fontSize=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MinSeon%20Baek&fontSize=50&animation=fadeIn" width="100%"/>
 
 ### 👋 Hi, I'm Minseon Baek | -
 
