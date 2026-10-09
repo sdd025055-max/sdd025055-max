@@ -1,16 +1,66 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sdd025055-max/sdd025055-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MinSeon%20Baek&fontSize=50&animation=fadeIn" width="100%"/>
 
-Here are some ideas to get you started:
+### 👋 Hi, I'm Minseon Baek | -
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_ID&count_bg=%23222222&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br>
+
+<!-- Contact Badges -->
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="YOUR_BLOG_URL"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+  <a href="YOUR_NOTION_URL"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+</p>
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+<div>
+  <!-- 사용하시는 스택 뱃지를 추가하세요 -->
+</div>
+
+<br>
+
+**Tools & Platforms**
+<div>
+  <!-- 사용하시는 툴 뱃지를 추가하세요 -->
+</div>
+
+---
+
+### 💻 Projects & Studies
+
+| Period | Title / Repository | Description |
+| :--- | :--- | :--- |
+| **YY.MM ~ YY.MM** | [프로젝트명](https://github.com/YOUR_GITHUB_ID/repository) | 프로젝트에 대한 간단한 설명을 입력하세요 |
+| **YY.MM ~ YY.MM** | [프로젝트명](https://github.com/YOUR_GITHUB_ID/repository) | 프로젝트에 대한 간단한 설명을 입력하세요 |
+
+---
+
+### 🎓 Education & Experience
+
+* **[교육기관 / 회사명]** 내용 또는 직무 입력 *(YY.MM - YY.MM)*
+* **[교육기관 / 회사명]** 내용 또는 직무 입력 *(YY.MM - YY.MM)*
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
+</div>
